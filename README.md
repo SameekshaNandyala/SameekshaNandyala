@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm Sameeksha Nandyala!
 
-<!--
-**SameekshaNandyala/SameekshaNandyala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 I’m currently learning new technologies and frameworks.
+- 💼 I love collaborating on open-source projects.
+- ⚡ Fun fact: I enjoy solving puzzles and reading books!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools
+- Python | JavaScript | HTML | CSS | Git |Github|Gitlab
+
+## 📈 GitHub Stats
+![Sameeksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SameekshaNandyala&show_icons=true&hide_title=true)
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- Email: nandyalasameeksha@gmail.com
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to check out my repositories 😊*
